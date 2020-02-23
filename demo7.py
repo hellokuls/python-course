@@ -11,7 +11,7 @@ data = {
 html = requests.post(url=url, data=data, headers=header).text
 soup = BeautifulSoup(html, 'html.parser')
 zhucema = soup.textarea.text
-with open('注册码.txt', 'a') as file_handle:
+with open('注册码.txt', 'wt') as file_handle:
     file_handle.write(zhucema)
     file_handle.write('\n')
 print(zhucema)
