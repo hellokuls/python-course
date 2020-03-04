@@ -1,5 +1,5 @@
-# JAVAandPython君公众号
+# JAVAandPython君公众号内容集合
 
 ## Python的一些骚操作| python爬虫 |
 
-> 此库不做特别维护，可以关注我的其他内容。
+> 正在总结...
