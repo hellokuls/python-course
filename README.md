@@ -58,5 +58,9 @@
 [Django文章列表点这里](https://mp.weixin.qq.com/s/GTCJr55K9e4BNKfuu3wEXg)
 
 
+有任何问题，可以加我微信或者提issue
+
+![image](https://github.com/hellokuls/cnnyzm/blob/master/erweima.jpg)
+
 
 
