@@ -1,8 +1,9 @@
 # Python-course
 
-## 总结Python的一些骚操作| python爬虫 | scrapy框架 | Flask教程 | Django教程 | 分布式爬虫 
+本项目主要总结Python的一些骚操作| python爬虫 | scrapy框架 | Flask教程 | Django教程 | 分布式爬虫 | Python面试题
 
 **最新爬虫方法**
+
 [知乎最新爬取方法](https://github.com/hellokuls/python-course/tree/master/zhihu)
 
 [小红书最新爬取方法](https://github.com/hellokuls/python-course/blob/master/xiaohongshu.py)
