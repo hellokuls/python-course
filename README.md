@@ -145,6 +145,34 @@
 
 ---
 
+**视频学习**
+
+Python基础
+链接:https://pan.baidu.com/s/1W_WVsmI_BTqfu5qxLVsv9Q  密码:ktkg
+
+Python进阶
+链接: https://pan.baidu.com/s/1DdrQQkVLK8D65dsdXQ7seA  密码: gs5k
+
+Python爬虫
+链接:https://pan.baidu.com/s/1CAcLTt8n9zUAzoCjflRmOg  密码:8ayt
+
+Python数据分析
+链接: https://pan.baidu.com/s/107eH-XOPcoQxC88X5g3pFQ  密码: qr9f
+链接:https://pan.baidu.com/s/1pFy8zhZ8gM9UW_lmYwkDBQ  密码:6gb7
+
+书籍
+链接:https://pan.baidu.com/s/1VHh-Vg7fQsaFD4eT2KF25g  密码:jma1
+
+Django前后端项目
+链接: https://pan.baidu.com/s/1YY5Crmri7MY1tYOV9LMeYA 提取码: s8cd 
+
+Flask web开发
+链接: https://pan.baidu.com/s/1gqmqgKoS6i1BGRjSJan_Ow 提取码: 2zqj
+
+本人原创Django、Flask系列文章
+链接:https://pan.baidu.com/s/1TPcEmhdvdhOoeN9HHW0dWw  密码:aoak
+
+
 有任何问题，可以加我微信或者提issue
 
 ![image](https://github.com/hellokuls/cnnyzm/blob/master/erweima.jpg)
