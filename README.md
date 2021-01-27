@@ -140,7 +140,7 @@
 - [Python爬虫| 不会分布式爬虫？带你一步一步写！](http://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247484819&idx=1&sn=34ac8b2d498ee695703a73f60654fff8&chksm=fcb668b2cbc1e1a49167361675e569c672bdabbdfbea66af59cc09dbd0028dbb60047f9f8d3f&scene=21#wechat_redirect)
 - [Python分布式爬虫-必须掌握的Docker基础！](http://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247484838&idx=1&sn=1eb0d90f9f58801da98df8c58e8b6baa&chksm=fcb66887cbc1e19190274416b9102a25d33bd2b650a7a2500c22825e0ba29ead25d5d365fa80&scene=21#wechat_redirect)
 - [分布式爬虫| 你必须得懂的那些Redis基础](http://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247484854&idx=1&sn=e22e7b1e630e7ad88bc9385477ffbd5c&chksm=fcb66897cbc1e18179972b44086d78b45445dadfcef7df2b2f47751846107710fb0240b54380&scene=21#wechat_redirect)
-- [python爬虫 | 一文搞懂分布式进程爬虫](http://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247484603&idx=1&sn=0f79e051d48cfc0a9aa25b4c21fe1525&chksm=fcb6699acbc1e08c34039e585f81bba71b1cd92c5b3b9d496afbf794d8d490fe4615f45d6cf7&scene=21#wechat_redirect)http://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247483900&idx=1&sn=d6f5b9395368173ccf85f66abc42ebfb&chksm=fcb66cddcbc1e5cbcbdda843a818b62f2bace20bc836063b35a00f601a8751b9a55bedf4716a&scene=21#wechat_redirect)
+- [python爬虫 | 一文搞懂分布式进程爬虫](http://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247484603&idx=1&sn=0f79e051d48cfc0a9aa25b4c21fe1525&chksm=fcb6699acbc1e08c34039e585f81bba71b1cd92c5b3b9d496afbf794d8d490fe4615f45d6cf7&scene=21#wechat_redirect)
 
 
 ---
