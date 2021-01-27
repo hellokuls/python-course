@@ -55,7 +55,45 @@
 **Django系列文章**
 
 
-[Django文章列表点这里](https://mp.weixin.qq.com/s/GTCJr55K9e4BNKfuu3wEXg)
+[小白学Django第一天| MVC、MVT以及Django的那些事](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485585&idx=1&sn=e173efd73370f022419b8bb1642bfeb0&scene=21#wechat_redirect)
+
+[小白学Django第二天| Django原来是这么玩的！](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485602&idx=1&sn=c255635472e0c6bba78fe12f843a90eb&scene=21#wechat_redirect)
+
+[小白学Django第三天| 一文带你快速理解模型Model](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485632&idx=1&sn=d8839533bbdeaf651a995f6ec48cdc39&scene=21#wechat_redirect)
+
+[小白学Django第四天| Django后台管理及配置MySQL数据库](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485713&idx=1&sn=79ca51193741558059b9403b5eb81d37&scene=21#wechat_redirect)
+
+[小白学Django第五天| 视图View的初步使用](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485755&idx=1&sn=f7f319738be480cfd114d130028ee3a9&scene=21#wechat_redirect)
+
+[小白学Django第六天| 一文快速搞懂模板的使用](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485786&idx=1&sn=1037b4540b6a0b5097759bf93df6095e&scene=21#wechat_redirect)
+
+[小白学Django第七天| 模型类Model进阶学习](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485914&idx=1&sn=859856186875a6db64f8a40944711a5a&scene=21#wechat_redirect)
+
+[小白学Django第八天| 登录案例实战](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485950&idx=1&sn=149cfe4e847af27cb30e50442e1ee0e6&scene=21#wechat_redirect)
+
+[小白学Django第九天| Cookie和session的那些骚操作](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485974&idx=1&sn=05894035e082419de6c17afee87f3488&scene=21#wechat_redirect)
+
+[小白学Django第十天| 模板的知识全部给你总结好了！](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247486006&idx=1&sn=241aa4ca94524322a44873ff6d8d12af&scene=21#wechat_redirect)
+
+
+
+**实战**
+
+[Django实战小型图书人物信息网页(MVT的综合运用)](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485856&idx=1&sn=bac0e61c991a798eb9dbdf9a35db0293&scene=21#wechat_redirect)
+
+[Django| 给你博客装个Markdown编辑器](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485960&idx=1&sn=ad98ebe7ea9b6796ce9fead1cf38fccc&scene=21#wechat_redirect)
+
+[GitHub上两个适合入门的Django开源项目](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485896&idx=1&sn=61c3753b339af1d07f5c27bf7707fe66&scene=21#wechat_redirect)
+
+
+
+**部署项目**
+
+[手把手教你在centos上安装MySQL(避坑必备)](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485993&idx=1&sn=1a1c574dc3b0d2622caca2dd2f6683ba&scene=21#wechat_redirect)
+
+[手把手教你在centos上配置Django项目（超详细步骤）](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485987&idx=1&sn=b767a85f4499ca648792893b6716d377&scene=21#wechat_redirect)
+
+
 
 
 有任何问题，可以加我微信或者提issue
