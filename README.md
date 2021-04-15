@@ -1,5 +1,5 @@
 
-<img src="https://github.com/hellokuls/python-course/blob/master/1.png" width = 80% height = 50% />
+<div align=center><img src="https://github.com/hellokuls/python-course/blob/master/1.png" width = 80% height = 50% /></div>
 本项目主要包含Python基础| Python爬虫 | Scrapy框架 | Flask教程 | Django教程 | 分布式爬虫 | Python面试题
 
 **Python20节入门**
