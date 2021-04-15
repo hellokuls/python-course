@@ -16,7 +16,8 @@
 
 [Python入门](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2NTczODU3NA==&action=getalbum&album_id=1406544140879495168&subscene=38&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU2NTczODU3NA%3D%3D%26mid%3D2247487385%26idx%3D2%26sn%3D0b7d422a327e2c76090af820b73f1be4%26chksm%3Dfcb662b8cbc1ebae4bbc4a4f105578f24bd88f3252c9577265f1ea5aa9bb8ca137aa547ef188%26scene%3D38%26key%3D991a1e3dcd215fe8c15e716601b0c610c4087cb0ba7969341c33060121211dfaa6ba5af4a27c9e56522d5f3f990db154114acb3636cf305306a92a57bb2d0a82ff1d42e924539e1ad7301adb00c76f1f%26ascene%3D3%26uin%3DMTQ4MzM4MTIzOQ%253D%253D%26devicetype%3DiMac%2BMacBookPro15%252C4%2BOSX%2BOSX%2B10.15.5%2Bbuild(19F101)%26version%3D12040110%26nettype%3DWIFI%26lang%3Dzh_CN%26fontScale%3D100%26exportkey%3DAwE78fqjIvN8IopfHoM0Bdc%253D%26pass_ticket%3DxJ%252Fqrzt51WJHRSoUfCkjk5vFgrojHUlq2qKl1eqclKNVtPLfsAbQBw1CcXYdfydo%26winzoom%3D1.250000&uin=&key=&devicetype=iMac+MacBookPro15%2C4+OSX+OSX+10.15.5+build(19F101)&version=12040110&lang=zh_CN&nettype=WIFI&ascene=3&fontScale=100&winzoom=1.250000)
 
----
+&emsp;
+&emsp;
 **最新爬虫方法**
 
 [知乎最新爬取方法](https://github.com/hellokuls/python-course/tree/master/zhihu)
@@ -29,8 +30,9 @@
 
 [CSDN批量删除最新方法](https://github.com/hellokuls/python-course/blob/master/csdn.py)
 
+&emsp;
+&emsp;
 
----
 **Flask全系列详细教程---Python进击者出品---转载需授权！**
 
 
@@ -66,7 +68,9 @@
 
 [小白学Flask第十五天| 重要环节---单元测试！](https://mp.weixin.qq.com/s/t99j0BbQGEhm55hcQRFAWQ)
 
----
+&emsp;
+&emsp;
+
 **Django系列文章**
 
 
@@ -90,7 +94,7 @@
 
 [小白学Django第十天| 模板的知识全部给你总结好了！](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247486006&idx=1&sn=241aa4ca94524322a44873ff6d8d12af&scene=21#wechat_redirect)
 
-
+&emsp;
 
 **实战**
 
@@ -101,6 +105,8 @@
 [GitHub上两个适合入门的Django开源项目](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485896&idx=1&sn=61c3753b339af1d07f5c27bf7707fe66&scene=21#wechat_redirect)
 
 
+&emsp;
+&emsp;
 
 **部署项目**
 
@@ -109,7 +115,8 @@
 [手把手教你在centos上配置Django项目（超详细步骤）](https://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485987&idx=1&sn=b767a85f4499ca648792893b6716d377&scene=21#wechat_redirect)
 
 
----
+&emsp;
+&emsp;
 
 **各类爬虫知识**
 - [
@@ -135,7 +142,8 @@
 - [中国爬虫违法违规案例汇总！](http://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485426&idx=2&sn=848c703f9869a10398634f97d7091595&chksm=fcb66ad3cbc1e3c5abf87f98b24e66fa561eedbb542e2b0c24a3607964cf0db8c73f32781e18&scene=21#wechat_redirect)
 
 
----
+&emsp;
+&emsp;
 
 **scrapy框架爬虫**
 - [Python|初识scrapy爬虫](http://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247484233&idx=1&sn=34385feabb34d568d426e331b64226d2&chksm=fcb66e68cbc1e77e5c4157fa95dfcdef3719da5e53aeedc3dc1f5dd28a5ec8e69d642f693e69&scene=21#wechat_redirect)
@@ -148,7 +156,8 @@
 - [Scrapy实战 | Scrapy爬虫爬取百度新闻（详细讲解）](http://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247485536&idx=1&sn=58d977db9690df743e643d395f1a5a52&chksm=fcb66541cbc1ec572c52a1f5c48efdab76559df822a03cecd9735d04e3a9a302d6fb7c0bacb4&scene=21#wechat_redirect)
 - [python爬虫scrapy入门视频教程](http://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247483900&idx=1&sn=d6f5b9395368173ccf85f66abc42ebfb&chksm=fcb66cddcbc1e5cbcbdda843a818b62f2bace20bc836063b35a00f601a8751b9a55bedf4716a&scene=21#wechat_redirect)
 
----
+&emsp;
+&emsp;
 
 **分布式爬虫**
 
@@ -158,7 +167,8 @@
 - [python爬虫 | 一文搞懂分布式进程爬虫](http://mp.weixin.qq.com/s?__biz=MzU2NTczODU3NA==&mid=2247484603&idx=1&sn=0f79e051d48cfc0a9aa25b4c21fe1525&chksm=fcb6699acbc1e08c34039e585f81bba71b1cd92c5b3b9d496afbf794d8d490fe4615f45d6cf7&scene=21#wechat_redirect)
 
 
----
+&emsp;
+&emsp;
 
 **视频学习**
 
