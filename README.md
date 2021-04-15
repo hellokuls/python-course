@@ -6,7 +6,6 @@
 
 <p align="center">
     <img src='https://img.shields.io/badge/language-Python-blue.svg' alt="Build Status">
-  	<a href='https://www.zhihu.com/people/kuls'><img src='https://img.shields.io/badge/dynamic/json?color=0084ff&logo=zhihu&label=%E7%8E%8B%E7%82%B3%E6%98%8E&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dwongbingming'></a>
 </p>
 
 ## 文章目录
