@@ -1,6 +1,6 @@
 # Python-course
 
-本项目主要总结Python的一些骚操作| python爬虫 | scrapy框架 | Flask教程 | Django教程 | 分布式爬虫 | Python面试题
+本项目主要包含Python基础| Python爬虫 | Scrapy框架 | Flask教程 | Django教程 | 分布式爬虫 | Python面试题
 
 **Python20节入门**
 
